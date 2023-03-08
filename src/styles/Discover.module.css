@@ -1,0 +1,10 @@
+.colums {
+    column-count: 4;
+    column-width: 100px;
+}
+
+@media (max-width: 1140px) {
+    .colums {
+        column-count: 2;
+    }
+}
